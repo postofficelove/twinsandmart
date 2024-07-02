@@ -1251,6 +1251,7 @@ footer{
 		display: flex;
 		align-items: baseline;
 		justify-content: space-between;
+		min-width: 250px;
 	}
 	.bottom-pro a{
 		background-color:#9CCA4D;

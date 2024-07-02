@@ -1065,7 +1065,8 @@ footer{
 		padding-right: 28px;
 	}
 	.boxone{
-		min-height: 165px;
+		width: 300px;
+		height: 200px;
 	}
 
 	

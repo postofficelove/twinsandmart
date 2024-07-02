@@ -1198,7 +1198,7 @@ footer{
 		padding: 22px;
 		width: 100%;
 		border-radius: 22px;
-		min-width: 242px;
+		
 		
 		
 	}
@@ -1251,7 +1251,7 @@ footer{
 		display: flex;
 		align-items: baseline;
 		justify-content: space-between;
-		min-width: 250px;
+		
 	}
 	.bottom-pro a{
 		background-color:#9CCA4D;

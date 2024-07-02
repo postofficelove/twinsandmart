@@ -210,6 +210,8 @@ h2 span{
 
 img.hover-img{
 	position: absolute;
+	width: 63px;
+	height: 64px;
 	top: 0;
 	left: 0;
 	opacity: 0;

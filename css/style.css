@@ -1065,8 +1065,14 @@ footer{
 		padding-right: 28px;
 	}
 	.boxone{
-		min-height: 200px;
+		min-height: 165px;
 	}
+
+	.boxonee{
+		height:200px;
+		width:300px;
+	}
+	
 	.mob-icon{
 		display:block;
 	}

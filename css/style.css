@@ -1285,6 +1285,7 @@ footer{
 		font-weight: 300;
 		font-size: 48px;
 		line-height: 60px;
+		margin-bottom: 20px;
 	}
 	.mbase{
 		align-items: baseline;

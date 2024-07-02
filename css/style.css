@@ -344,6 +344,7 @@ img.hover-img{
 }
 .single-num{
 	position:relative;
+	min-width: 250px;
 	
 }
 .single-num a img{

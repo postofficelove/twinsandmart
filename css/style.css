@@ -269,8 +269,8 @@ img.hover-img{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-width: 300px;
-    min-height: 100px;
+    width: 300px;
+    height: 210px;
 		
 }
 
@@ -1065,8 +1065,11 @@ footer{
 		padding-right: 28px;
 	}
 	.boxone{
-		width: 300px;
-		height: 200px;
+		min-height: 165px; 
+	}
+
+	.boxonee{
+		min-height: 210px; 
 	}
 
 	

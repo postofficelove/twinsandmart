@@ -344,7 +344,7 @@ img.hover-img{
 }
 .single-num{
 	position:relative;
-	min-width: 300px;
+	
 }
 .single-num a img{
 	width:28.3px;
@@ -1197,6 +1197,7 @@ footer{
 		width: 100%;
 		padding: 22px;
 		border-radius: 22px;
+		min-width: 200px;
 	}
 	.single-num a {
 		font-size: 16px;

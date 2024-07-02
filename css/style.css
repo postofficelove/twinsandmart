@@ -196,6 +196,7 @@ h2 span{
 
 .box{
 	position: relative;
+	display: flex;
 	overflow: hidden;
 	width: 63px;
 	height: 64px;

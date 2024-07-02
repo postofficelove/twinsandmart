@@ -249,6 +249,7 @@ img.hover-img{
     background-color: #f8f8f8;
     border-radius: 19px;
     display: flex;
+    width: 320px;
     align-items: center;
     justify-content: center;
 	flex-grow: 1;

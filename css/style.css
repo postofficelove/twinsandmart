@@ -260,6 +260,17 @@ img.hover-img{
 	
 }
 
+.boxonee{
+    background-color: #f8f8f8;
+    border-radius: 19px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	width: 300px;
+	height: 200px;
+		
+}
+
 .scroller {
 	display: flex;
 	flex-grow: 1;

@@ -1195,10 +1195,9 @@ footer{
 	}
 	.single-num{
 		background-color: #f7f7f7;
-		width: 100%;
 		padding: 22px;
 		border-radius: 22px;
-		min-width: 250px;
+		min-width: 242px;
 		
 		
 	}

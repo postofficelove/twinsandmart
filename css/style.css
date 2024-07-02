@@ -1197,6 +1197,7 @@ footer{
 		width: 100%;
 		padding: 22px;
 		border-radius: 22px;
+		min-width: 200px;
 		
 	}
 	.single-num a {
@@ -1213,7 +1214,7 @@ footer{
 	}
 	.product-slider .swiper-slide{
 		    background-color: #f7f7f7;
-		    min-width: 200px;
+		    
 	}
 	.product-top{
 		display: flex;

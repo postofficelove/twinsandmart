@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+	<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="header-flex">
+				<a href="index.html" class="logo"><img src="img/logo.png"></a>
+				<div class="nav">
+					<div class="mob-m-header hide-desk">
+						<img src="img/close.svg" class="pointer" onclick="closemenu()">
+						<a href="index.html" class="logo"><img src="img/logo.png"></a>
+					</div>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="productos.html">Productos</a></li>
+						<li><a href="nosotros.html">Nosotros</a></li>
+						<li><a href="eventos.html">Noticias y Eventos</a></li>
+						<li><a href="Contactanos.html" class="prominent">Contáctanos</a></li>
+					</ul>
+				</div>
+				<img src="img/menu.svg" class="mob-icon pointer" onclick="openmenu()">
+			</div>
+		</div>
+	</header>
+	
+	<div class="container">
+		<div class="heading-flex mbase mt-53 end">
+			<div>
+				<h1 class="events-h1">
+					Boston Scientific
+				</h1>
+		
+			</div>
+			<img src="img/down1.svg" class="hide-mob">
+		</div>
+		
+		<div class="pdf-row mt-102">
+			<div class="left-pdf"></div>
+			<div class="right-pdf">
+				<div class="pdf-num">/01</div>
+				
+				<div class="text-right">
+					<img src="img/be-graft.svg">
+					<br />
+					<a href="#" class="download-pdf">Descargar PDF 
+						<svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<line x1="10.0186" y1="0.871826" x2="10.0186" y2="20.2255" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						<line x1="19.011" y1="11.8409" x2="10.3289" y2="20.7044" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						<line x1="1.0606" y1="11.6958" x2="9.92661" y2="20.3752" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						</svg>
+					</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="pdf-row mt-102">
+			<div class="left-pdf"></div>
+			<div class="right-pdf">
+				<div class="pdf-num">/02</div>
+				
+				<div class="text-right">
+					<img src="img/be-graft.svg">
+					<br />
+					<a href="#" class="download-pdf">Descargar PDF 
+						<svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<line x1="10.0186" y1="0.871826" x2="10.0186" y2="20.2255" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						<line x1="19.011" y1="11.8409" x2="10.3289" y2="20.7044" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						<line x1="1.0606" y1="11.6958" x2="9.92661" y2="20.3752" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						</svg>
+					</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="pdf-row mt-102">
+			<div class="left-pdf"></div>
+			<div class="right-pdf">
+				<div class="pdf-num">/03</div>
+				
+				<div class="text-right">
+					<img src="img/be-graft.svg">
+					<br />
+					<a href="#" class="download-pdf">Descargar PDF 
+						<svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<line x1="10.0186" y1="0.871826" x2="10.0186" y2="20.2255" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						<line x1="19.011" y1="11.8409" x2="10.3289" y2="20.7044" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						<line x1="1.0606" y1="11.6958" x2="9.92661" y2="20.3752" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						</svg>
+					</a>
+				</div>
+			</div>
+		</div>
+		
+		<div class="pdf-row mt-102">
+			<div class="left-pdf"></div>
+			<div class="right-pdf">
+				<div class="pdf-num">/04</div>
+				
+				<div class="text-right">
+					<img src="img/be-graft.svg">
+					<br />
+					<a href="#" class="download-pdf">Descargar PDF 
+						<svg width="20" height="22" viewBox="0 0 20 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<line x1="10.0186" y1="0.871826" x2="10.0186" y2="20.2255" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						<line x1="19.011" y1="11.8409" x2="10.3289" y2="20.7044" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						<line x1="1.0606" y1="11.6958" x2="9.92661" y2="20.3752" stroke="#2C2C2C" stroke-width="1.5" stroke-linecap="round"/>
+						</svg>
+					</a>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+		<div class="text-left">
+			<a href="Contactanos.html" ><span class="inner-big events-big" style="margin-bottom:0px;">Cuéntanos qué </span><br /><span  style="margin-top:0px" class="inner-big events-big">necesitas <img src="img/arrowtwo.png"></span> </a>
+		</div>
+	</div>
+	<footer>
+		<div class="container">
+			<div class="top-footer">
+				<div>
+					<ul class="footer-links">
+						<li><a href="index.html">Inicio</a></li>
+						<li><a href="productos.html">Productos</a></li>
+						<li><a href="nosotros.html">Nosotros</a></li>
+						<li><a href="eventos.html">Noticias y Eventos</a></li>
+						<li><a href="políticas.html">Políticas</a></li>
+					</ul>
+				</div>
+				<div class="right-top">
+					<a href="#">Contáctanos</a>
+					<img src="img/footer-logo.svg">
+				</div>
+			</div>
+			
+			
+			<div class="bottom-footer">
+				<div class="cp">
+					2024 Twins and Martin
+				</div>
+				<div>
+					<div class="social">
+						<a href="#" class="inner-link">Whatsapp <img src="img/arrow.png"></a>
+						<a href="#" class="inner-link">Linkdn <img src="img/arrow.png"></a>
+					</div>
+					<div class="po">
+						Creado por <span>Post Office</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+	<script src="js/script.js"></script>
+</body>
+</html>

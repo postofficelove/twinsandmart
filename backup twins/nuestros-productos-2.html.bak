@@ -1,0 +1,170 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+	<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div class="header-flex">
+				<a href="index.html" class="logo"><img src="img/logo.png"></a>
+				<div class="nav">
+					<div class="mob-m-header hide-desk">
+						<img src="img/close.svg" class="pointer" onclick="closemenu()">
+						<a href="index.html" class="logo"><img src="img/logo.png"></a>
+					</div>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="productos.html">Productos</a></li>
+						<li><a href="nosotros.html">Nosotros</a></li>
+						<li><a href="eventos.html">Noticias y Eventos</a></li>
+						<li><a href="Contactanos.html" class="prominent">Contáctanos</a></li>
+					</ul>
+				</div>
+				<img src="img/menu.svg" class="mob-icon pointer" onclick="openmenu()">
+			</div>
+		</div>
+	</header>
+	
+	<div class="container">
+		<div class="heading-flex mbase mt-53 end">
+			<div>
+				<h1 class="events-h1">
+					Nuestros <br />productos
+				</h1>
+		
+			</div>
+		</div>
+		
+		
+		<div class="prosubtwo"> <h4>PERIFERICO</h4> <span>Haz click en el logo </span></div>
+		
+		<div class="product-logos bb-0">
+			<div>
+				<img src="img/p1.svg">
+			</div>
+			<div>
+				<img src="img/p11.svg">
+			</div>
+			<div>
+				<img src="img/p2.svg">
+			</div>
+			<div>
+				<img src="img/p9.svg">
+			</div>
+			<div>
+				<img src="img/p7.svg">
+			</div>
+			<div>
+				<img src="img/p10.svg">
+			</div>
+			<div>
+				<img src="img/p1.svg">
+			</div>
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		<div class="prosubtwo"> <h4>CARDIOVASCULAR</h4> <span>Haz click en el logo </span></div>
+		
+		<div class="product-logos bb-0">
+			<div>
+				<img src="img/p1.svg">
+			</div>
+			
+			<div>
+				<img src="img/p2.svg">
+			</div>
+			
+		</div>
+		
+		
+		<div class="prosubtwo"> <h4>RADIOLOGÍA</h4> <span>Haz click en el logo </span></div>
+		
+		<div class="product-logos bb-0">
+			<div>
+				<img src="img/p1.svg">
+			</div>
+			
+			<div>
+				<img src="img/p2.svg">
+			</div>
+			
+		</div>
+		
+		
+		
+		<div class="protext">
+			<div class="proleft">
+				<div class="procircle">
+					CUENTANOS QUE <br />NECESITAS
+				</div>
+			</div>
+			<div class="proright">
+				<h2>Ofrecemos productos médicos <span>excepcionales.</span></h2>
+				<p>Twins & Martin ofrece una amplia cartera de productos innovadores para ampliar el acceso a la atención médica en países emergentes y desarrollados.</p>
+				
+				<div class="text-right">
+					<a href="#">Nosotros <img src="img/arrow.png"></a>
+				</div>
+			</div>
+		</div>
+		<div class="microscope">
+			<img src="img/microscope.svg">
+		</div>
+	</div>
+	<footer>
+		<div class="container">
+			<div class="top-footer">
+				<div>
+					<ul class="footer-links">
+						<li><a href="index.html">Inicio</a></li>
+						<li><a href="productos.html">Productos</a></li>
+						<li><a href="nosotros.html">Nosotros</a></li>
+						<li><a href="eventos.html">Noticias y Eventos</a></li>
+						<li><a href="políticas.html">Políticas</a></li>
+					</ul>
+				</div>
+				<div class="right-top">
+					<a href="#">Contáctanos</a>
+					<img src="img/footer-logo.svg">
+				</div>
+			</div>
+			
+			
+			<div class="bottom-footer">
+				<div class="cp">
+					2024 Twins and Martin
+				</div>
+				<div>
+					<div class="social">
+						<a href="#" class="inner-link">Whatsapp <img src="img/arrow.png"></a>
+						<a href="#" class="inner-link">Linkdn <img src="img/arrow.png"></a>
+					</div>
+					<div class="po">
+						Creado por <span>Post Office</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+	<script src="js/script.js"></script>
+</body>
+</html>

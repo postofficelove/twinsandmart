@@ -1018,10 +1018,10 @@ footer{
 	content: url("img/andratechov.png");
 }
 .product-logos a[href="msb.html"] img:hover {
-	content: url("img/msbhov.png");
+	content: url("/img/msbhov.png");
 }
 .product-logos a[href="varixio.html"] img:hover {
-	content: url("img/varixiohov.png");
+	content: url("/img/varixiohov.png");
 }
 .product-logos a[href="ar.html"] img:hover {
 	content: url("img/arhov.png");

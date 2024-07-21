@@ -1003,7 +1003,7 @@ footer{
  }
         
 .product-logos a[href="bentley.html"] img:hover {
-	content: url("img/bentleyhov.png");
+	content: url("../img/bentleyhov.png");
 }
 .product-logos a[href="scitech.html"] img:hover {
 	content: url("img/scitechhov.png");

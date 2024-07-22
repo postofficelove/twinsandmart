@@ -721,7 +721,7 @@ footer{
 	width: 60px;
 }
 .dropdown img:hover{
-	content:url("img/button calendar 2.svg");
+	content:url("../img/button calendar 2.svg");
 }
 .single-event{
 	background-color: #F7F7F7;
@@ -782,7 +782,7 @@ footer{
 .event-details:hover{
 	background-color: #9CCA4D;
 	color: white;
-	content: url("/Users/natalia/Downloads/newweb 3/img/Group 2.svg");
+	content: url("../img/Group 2.svg");
 
 }
 

@@ -1012,7 +1012,7 @@ footer{
 	content: url("/img/asahihov.png");
 }
 .product-logos a[href="shape.html"] img:hover {
-	content: url("/img/shapehov.png");
+	content:src ("/img/shapehov.png");
 }
 .product-logos a[href="andratec.html"] img:hover {
 	content: url("/img/andratechov.png");

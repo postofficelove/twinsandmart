@@ -1051,6 +1051,9 @@ footer{
 .inner-big img:hover {
 	content: url("img/Group 13.png");
 }
+.logo img{
+	width: 100px;
+}
 .protext{
 	display:flex;
 	gap:22px;

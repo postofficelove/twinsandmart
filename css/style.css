@@ -1003,37 +1003,37 @@ footer{
  }
         
 .product-logos a[href="bentley.html"] img:hover {
-	content: url("/img/bentleyhov.png");
+	content: url("../img/bentleyhov.png");
 }
 .product-logos a[href="scitech.html"] img:hover {
-	content: url("/img/scitechhov.png");
+	content: url("../img/scitechhov.png");
 }
 .product-logos a[href="asahi.html"] img:hover {
-	content: url("/img/asahihov.png");
+	content: url("../img/asahihov.png");
 }
 .product-logos a[href="shape.html"] img:hover {
-	content:src ("/img/shapehov.png");
+	content:src ("../img/shapehov.png");
 }
 .product-logos a[href="andratec.html"] img:hover {
-	content: url("/img/andratechov.png");
+	content: url("../img/andratechov.png");
 }
 .product-logos a[href="msb.html"] img:hover {
-	content: url("/img/msbhov.png");
+	content: url("../img/msbhov.png");
 }
 .product-logos a[href="varixio.html"] img:hover {
-	content: url("/img/varixiohov.png");
+	content: url("../img/varixiohov.png");
 }
 .product-logos a[href="ar.html"] img:hover {
-	content: url("/img/arhov.png");
+	content: url("../img/arhov.png");
 }
 .product-logos a[href="msb.html"] img:hover {
-	content: url("/img/msbhov.png");
+	content: url("../img/msbhov.png");
 }
 .product-logos a[href="burlington.html"] img:hover {
-	content: url("/img/burlingtonhov.png");
+	content: url("../img/burlingtonhov.png");
 }
 .product-logos a[href="allium.html"] img:hover {
-	content: url("/img/alium2.png");
+	content: url("../img/alium2.png");
 }
 .inner-big img:hover {
 	content: url("img/Group 13.png");

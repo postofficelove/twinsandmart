@@ -982,13 +982,13 @@ footer{
 }
 .product-logos{
 	grid-template-columns: repeat(4, 1fr);
-    display: grid;
+    display: inline-grid;
     gap: 22px;
 	margin-top:25px;
 	padding-bottom:25px;
 }
 .product-logos div{
-	width: 316px;
+	max-width: 316px;
 	height: 168px;
 	border-radius: 19px;
 	display: flex;

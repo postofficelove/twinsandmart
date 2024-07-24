@@ -1228,10 +1228,10 @@ footer{
 				transform: scale(1.1); /* Grow the image */
 	 }
 			
-	.product-logos a[href="bentley.html"] img:hover {
+	.product-logos a[href="bentley.html"] img:active {
 		content: url("../img/bentleyhov.png");
 	}
-	.product-logos a[href="scitech.html"] img:hover {
+	.product-logos a[href="scitech.html"] img:active {
 		content: url("../img/scitechhov.png");
 	}
 	.product-logos a[href="asahi.html"] img:hover {
